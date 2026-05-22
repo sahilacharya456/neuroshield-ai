@@ -1,0 +1,20 @@
+{
+  "users": [
+    {
+      "email": "admin@neuroshield.ai",
+      "role": "Admin",
+      "password": "NeuroShield@123"
+    },
+    {
+      "email": "analyst@neuroshield.ai",
+      "role": "Analyst",
+      "password": "NeuroShield@123"
+    },
+    {
+      "email": "viewer@neuroshield.ai",
+      "role": "Viewer",
+      "password": "NeuroShield@123"
+    }
+  ],
+  "notes": "Seed alerts, incidents, endpoints, IOCs, MITRE mappings, notifications, audit logs, and reports are embedded in backend/app/services/store.py for demo startup."
+}

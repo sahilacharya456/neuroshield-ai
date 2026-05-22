@@ -1,0 +1,13 @@
+failed_logins,unusual_hour,source_reputation,endpoint_risk,malware_indicator,severity
+1,0,10,12,0,Low
+3,0,25,20,0,Low
+6,1,40,35,0,Medium
+8,1,55,48,0,Medium
+12,1,75,65,0,High
+16,1,88,76,0,High
+21,1,94,84,1,Critical
+30,1,97,91,1,Critical
+2,1,30,28,0,Medium
+10,0,63,72,1,High
+18,0,91,81,1,Critical
+5,0,20,70,1,Medium
