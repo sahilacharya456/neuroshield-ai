@@ -63,3 +63,18 @@ docs/           Install, API, deployment, resume docs
 docker/         Dockerfiles
 screenshots/    Placeholder for project screenshots
 ```
+
+
+
+
+
+
+
+
+
+<img width="710" height="836" alt="Screenshot 2026-05-22 180152" src="https://github.com/user-attachments/assets/75c068cf-537b-4eeb-b8ac-4956fc59c581" />
+<img width="1093" height="921" alt="Screenshot 2026-05-22 180237" src="https://github.com/user-attachments/assets/3580131a-9d95-4d68-9e21-f9c2b5f60097" />
+<img width="1098" height="921" alt="Screenshot 2026-05-22 180250" src="https://github.com/user-attachments/assets/8b80f197-9f7f-4f0e-b361-bfec8bf263f8" />
+<img width="1102" height="917" alt="Screenshot 2026-05-22 180305" src="https://github.com/user-attachments/assets/b1e1cca0-2318-4d19-be0e-5ec62c58c110" />
+<img width="1441" height="918" alt="Screenshot 2026-05-22 180743" src="https://github.com/user-attachments/assets/92a554ba-3db1-43b5-94a8-727f9102c023" />
+<img width="1441" height="917" alt="Screenshot 2026-05-22 180804" src="https://github.com/user-attachments/assets/50ea7661-d0ef-4d9f-beb7-43ef9ef2de16" />
